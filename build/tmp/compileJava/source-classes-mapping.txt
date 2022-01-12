@@ -1,0 +1,18 @@
+WebUI_Automation/models/eCommerce/HomePage.java
+ WebUI_Automation.models.eCommerce.HomePage
+apiAutomation/ApplicationProperties.java
+ apiAutomation.ApplicationProperties
+apiAutomation/models/Product.java
+ apiAutomation.models.Product
+WebUI_Automation/BaseClass.java
+ WebUI_Automation.BaseClass
+apiAutomation/BasePage.java
+ apiAutomation.BasePage
+WebUI_Automation/dataProvider/SearchItemDP.java
+ WebUI_Automation.dataProvider.SearchItemDP
+apiAutomation/models/Rating.java
+ apiAutomation.models.Rating
+WebUI_Automation/utils/ApplicationProperties.java
+ WebUI_Automation.utils.ApplicationProperties
+WebUI_Automation/models/eCommerce/SearchPage.java
+ WebUI_Automation.models.eCommerce.SearchPage

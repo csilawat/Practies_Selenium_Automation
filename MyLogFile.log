@@ -1,0 +1,10 @@
+Jan 12, 2022 1:20:08 PM WebUI_Automation.E_commerce.BaseTest addLogFileDetail
+INFO: My first log
+Jan 12, 2022 1:20:08 PM WebUI_Automation.E_commerce.BaseTest addLogFileDetail
+INFO: Hi How r u?
+Jan 12, 2022 1:20:08 PM WebUI_Automation.E_commerce.BaseTest beforeTests
+INFO: Base url is :- http://automationpractice.com/index.php
+Jan 12, 2022 1:20:08 PM WebUI_Automation.E_commerce.BaseTest beforeTests
+INFO: Web TItle is  :- My Store
+Jan 12, 2022 1:20:33 PM WebUI_Automation.E_commerce.BaseTest afterTests
+INFO: After method called

@@ -1,0 +1,16 @@
+WebUI_Automation/uploadDownloadFIles/BaseTestUploadDownloadFile.java
+ WebUI_Automation.uploadDownloadFIles.BaseTestUploadDownloadFile
+WebUI_Automation/uploadDownloadFIles/ReadDownloadFileTest.java
+ WebUI_Automation.uploadDownloadFIles.ReadDownloadFileTest
+apiAutomation/testClasses/ProductTest.java
+ apiAutomation.testClasses.ProductTest
+WebUI_Automation/uploadDownloadFIles/UploadFileTest.java
+ WebUI_Automation.uploadDownloadFIles.UploadFileTest
+apiAutomation/BaseTest.java
+ apiAutomation.BaseTest
+WebUI_Automation/E_commerce/SearchTest.java
+ WebUI_Automation.E_commerce.SearchTest
+WebUI_Automation/E_commerce/BaseTest.java
+ WebUI_Automation.E_commerce.BaseTest
+WebUI_Automation/E_commerce/VerifyHomePageTest.java
+ WebUI_Automation.E_commerce.VerifyHomePageTest

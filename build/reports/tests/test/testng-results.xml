@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="7" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-13T15:11:42 IST" name="Gradle suite" finished-at="2021-12-13T15:12:03 IST" duration-ms="20938">
+    <groups>
+    </groups>
+    <test started-at="2021-12-13T15:11:42 IST" name="Gradle test" finished-at="2021-12-13T15:12:03 IST" duration-ms="20938">
+      <class name="apiAutomation.BaseTest">
+        <test-method is-config="true" signature="beforeTestMethod()[pri:0, instance:apiAutomation.BaseTest@1bb9eb5e]" started-at="2021-12-13T15:11:42 IST" name="beforeTestMethod" finished-at="2021-12-13T15:11:42 IST" duration-ms="549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+      </class> <!-- apiAutomation.BaseTest -->
+      <class name="apiAutomation.testClasses.ProductTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:apiAutomation.testClasses.ProductTest@2c879f67]" started-at="2021-12-13T15:11:42 IST" name="setUp" finished-at="2021-12-13T15:11:43 IST" depends-on-methods="apiAutomation.BaseTest.beforeTestMethod" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getALlProducts()[pri:0, instance:apiAutomation.testClasses.ProductTest@2c879f67]" started-at="2021-12-13T15:11:57 IST" name="getALlProducts" finished-at="2021-12-13T15:11:59 IST" duration-ms="2376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getALlProducts -->
+        <test-method signature="getALlProducts1()[pri:0, instance:apiAutomation.testClasses.ProductTest@2c879f67]" started-at="2021-12-13T15:11:59 IST" name="getALlProducts1" finished-at="2021-12-13T15:12:00 IST" duration-ms="869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getALlProducts1 -->
+        <test-method signature="getProductByCategory()[pri:0, instance:apiAutomation.testClasses.ProductTest@2c879f67]" started-at="2021-12-13T15:12:00 IST" name="getProductByCategory" finished-at="2021-12-13T15:12:01 IST" duration-ms="850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProductByCategory -->
+        <test-method signature="getProductByRating_rate()[pri:0, instance:apiAutomation.testClasses.ProductTest@2c879f67]" started-at="2021-12-13T15:12:01 IST" name="getProductByRating_rate" finished-at="2021-12-13T15:12:02 IST" duration-ms="1088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProductByRating_rate -->
+        <test-method signature="getSingleProductById_1()[pri:0, instance:apiAutomation.testClasses.ProductTest@2c879f67]" started-at="2021-12-13T15:12:02 IST" name="getSingleProductById_1" finished-at="2021-12-13T15:12:03 IST" duration-ms="802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSingleProductById_1 -->
+      </class> <!-- apiAutomation.testClasses.ProductTest -->
+      <class name="WebUI_Automation.Base">
+        <test-method signature="setup()[pri:0, instance:WebUI_Automation.Base@2260a04f]" started-at="2021-12-13T15:11:43 IST" name="setup" finished-at="2021-12-13T15:11:57 IST" duration-ms="14302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- WebUI_Automation.Base -->
+    </test> <!-- Gradle test -->
+  </suite> <!-- Gradle suite -->
+</testng-results>
