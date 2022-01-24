@@ -65,7 +65,6 @@ public class BaseTest {
         assertThat(driver.getTitle(), is(E_ComTitle));
         assertThat(driver.getCurrentUrl(), is(baseUrl));
 
-//        extentTest.log(LogStatus.PASS, "Navigated to the specified URL");
     }
 
     @BeforeMethod
